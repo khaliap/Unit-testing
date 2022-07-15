@@ -10,11 +10,24 @@ if input = 2
 let output be 2
 
 if input mod 3 = 0 
-let output be the string x = Fizz
+let output be the string Fizz
 
 if input mod 5 = 0 
-let output be the string y = Buzz
+let output be the string Buzz
 
 if input mod 3 = 0 and input mod 5 = 0
-let output be the string z = x + y
+let output be FuzzBizz
 
+ 
+      
+  
+    [Fact]
+    public void ReturnBuzzWhenInputisInputModFiveAndThree()
+
+    {
+        Fizzbuzz sut = new Fizzbuzz();
+        sut.userInput = 30;
+
+        Assert.Equal("Buzz", sut.FizzbuzzOutputLogic());
+    }
+}
