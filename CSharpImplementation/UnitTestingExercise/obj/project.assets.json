@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\Implementation\\Unit-testing.csproj",
-      "projectName": "Unit-testing",
-      "projectPath": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\Implementation\\Unit-testing.csproj",
+      "projectUniqueName": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\UnitTestingExercise\\UnitTestingExercise.csproj",
+      "projectName": "UnitTestingExercise",
+      "projectPath": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\UnitTestingExercise\\UnitTestingExercise.csproj",
       "packagesPath": "C:\\Users\\sobomighie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\Implementation\\obj\\",
+      "outputPath": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\UnitTestingExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sobomighie\\AppData\\Roaming\\NuGet\\NuGet.Config",

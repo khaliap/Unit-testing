@@ -1,6 +1,17 @@
 # Unit-testing with FizzBuzz
 
-For each of the following, write the test first, then write just enough code to get that error passing. Run your tests again, and then write more code until your test passes. Write your code in the index.js file, and your tests in the test.js file. Run your tests using npm test`. The rules of our fizzbuzz function are:
+For each of the following, write the test first, then write just enough code to get that error passing. 
+Run your tests again, and then write more code until your test passes. 
+
+For the Javascript section:
+Write your code in the index.js file, and your tests in the test.js file. 
+Run your tests using npm test`. 
+
+For the C# section:
+Write your code in the fizzbuzz.cs file, and your tests in the FizzBuzzShould file in the UnitTest.Tests directory.
+Run your tests using dotnet test or whichever test runner you use. 
+
+The rules of our fizzbuzz function are:
 
 * Given a multiple of 3 and 5, returns 'FizzBuzz'
 * Given a multiple of 3, returns 'Fizz'

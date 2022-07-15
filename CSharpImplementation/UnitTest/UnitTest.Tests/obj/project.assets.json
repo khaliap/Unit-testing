@@ -1670,6 +1670,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "UnitTestingExercise/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/UnitTestingExercise.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UnitTestingExercise.dll": {}
+        }
       }
     }
   },
@@ -5966,12 +5976,17 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "UnitTestingExercise/1.0.0": {
+      "type": "project",
+      "path": "../../UnitTestingExercise/UnitTestingExercise.csproj",
+      "msbuildProject": "../../UnitTestingExercise/UnitTestingExercise.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\C# implementation\\Unit-testing.csproj",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
+      "UnitTestingExercise >= 1.0.0",
       "coverlet.collector >= 3.1.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -6004,8 +6019,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\C# implementation\\Unit-testing.csproj": {
-              "projectPath": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\C# implementation\\Unit-testing.csproj"
+            "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\UnitTestingExercise\\UnitTestingExercise.csproj": {
+              "projectPath": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\UnitTestingExercise\\UnitTestingExercise.csproj"
             }
           }
         }
@@ -6059,16 +6074,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\C# implementation\\Unit-testing.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\C# implementation\\Unit-testing.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

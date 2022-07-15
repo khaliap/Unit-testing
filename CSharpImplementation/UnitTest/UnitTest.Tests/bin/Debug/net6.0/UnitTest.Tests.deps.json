@@ -9,7 +9,7 @@
       "UnitTest.Tests/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.1.0",
-          "Unit-testing": "1.0.0",
+          "UnitTestingExercise": "1.0.0",
           "coverlet.collector": "3.1.2",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
@@ -1090,9 +1090,9 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
-      "Unit-testing/1.0.0": {
+      "UnitTestingExercise/1.0.0": {
         "runtime": {
-          "Unit-testing.dll": {}
+          "UnitTestingExercise.dll": {}
         }
       }
     }
@@ -1747,7 +1747,7 @@
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
     },
-    "Unit-testing/1.0.0": {
+    "UnitTestingExercise/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

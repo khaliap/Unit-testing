@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "2Yi6UkuitW4E8teCKvhu+nXQ7cL5ee3AEoJBXxI6oE9g8hGlOEijukchXK55dvrrDmTE4MIAJ6tR9NYEH0O+iQ==",
-  "success": false,
+  "dgSpecHash": "VqoMEKSz/pxvMwwFlXoT4wBLDlZoZKqRM5GtaUr8Po+MTOJ6opLFEckxcfklvC72KF/miZWz6HrsHE55ngxqDw==",
+  "success": true,
   "projectFilePath": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\UnitTest\\UnitTest.Tests\\UnitTest.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sobomighie\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
@@ -97,15 +97,5 @@
     "C:\\Users\\sobomighie\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
     "C:\\Users\\sobomighie\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\C# implementation\\Unit-testing.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\sobomighie\\source\\repos\\Unit-testing\\CSharpImplementation\\C# implementation\\Unit-testing.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
 
     <IsPackable>false</IsPackable>
+
+    <OutputType>Library</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
@@ -22,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\C# implementation\Unit-testing.csproj" />
+    <ProjectReference Include="..\..\UnitTestingExercise\UnitTestingExercise.csproj" />
   </ItemGroup>
 
 </Project>
