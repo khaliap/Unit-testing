@@ -1,0 +1,33 @@
+pseudocode
+
+assert.equals()
+User int input = 0
+
+if input = 1
+let output be int 1
+
+if input = 2
+let output be 2
+
+if input mod 3 = 0 
+let output be the string Fizz
+
+if input mod 5 = 0 
+let output be the string Buzz
+
+if input mod 3 = 0 and input mod 5 = 0
+let output be FuzzBizz
+
+ 
+      
+  
+    [Fact]
+    public void ReturnBuzzWhenInputisInputModFiveAndThree()
+
+    {
+        Fizzbuzz sut = new Fizzbuzz();
+        sut.userInput = 30;
+
+        Assert.Equal("Buzz", sut.FizzbuzzOutputLogic());
+    }
+}

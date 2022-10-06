@@ -1,0 +1,15 @@
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\bin\Debug\net6.0\UnitTestingExercise.exe
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\bin\Debug\net6.0\UnitTestingExercise.deps.json
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\bin\Debug\net6.0\UnitTestingExercise.runtimeconfig.json
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\bin\Debug\net6.0\UnitTestingExercise.dll
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\bin\Debug\net6.0\UnitTestingExercise.pdb
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\UnitTestingExercise.csproj.AssemblyReference.cache
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\UnitTestingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\UnitTestingExercise.AssemblyInfoInputs.cache
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\UnitTestingExercise.AssemblyInfo.cs
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\UnitTestingExercise.csproj.CoreCompileInputs.cache
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\UnitTestingExercise.dll
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\refint\UnitTestingExercise.dll
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\UnitTestingExercise.pdb
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\UnitTestingExercise.genruntimeconfig.cache
+C:\Users\sobomighie\source\repos\Unit-testing\CSharpImplementation\UnitTestingExercise\obj\Debug\net6.0\ref\UnitTestingExercise.dll
